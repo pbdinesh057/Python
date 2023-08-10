@@ -25,6 +25,3 @@ print("Your Height is "+str(height)+" cms")
 human=True
 print(human)
 print("Are you a Human?  "+str(human))
-
-
-
