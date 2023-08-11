@@ -28,4 +28,22 @@ for i in range(10):
         pass
     else:
         print(i)
-# Placeholder, doesn't do anything yet
+# Placeholder, doesn't do anything yet\
+
+
+
+phone="628-141-25_5"
+for i in phone:
+    if i =="-":
+        pass
+    else:
+        print(i, end="")
+print("\n")
+
+
+phone="628-141-2575"
+for i in phone:
+    if i =="-":
+        continue
+    else:
+        print(i, end="")
